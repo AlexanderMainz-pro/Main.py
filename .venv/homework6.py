@@ -7,8 +7,8 @@ my_dict["Viktor"] = 1991
 print(my_dict.get("Alexander"), my_dict["Viktor"])
 my_dict["Anatoly"] = 1992
 my_dict["Basil"] = 1993
-my_dict.pop("Igor")
-print(my_dict.get("Igor"))
+a = my_dict.pop("Igor")
+print(a)
 print(my_dict.get("Igor", 1990))
 print(my_dict)
 
