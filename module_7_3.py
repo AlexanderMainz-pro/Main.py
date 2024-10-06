@@ -22,16 +22,18 @@ class WordsFinder:
     def find(self, word):
         results = {}
         all_words = self.get_all_words()
+        word_lower = word.lower()
         for name, words in all_words.items():
-            if word in words:
-                results[name] = words.index(word)
-        return results
+            if word_lower in (w.lower() for w in words):
+                results[name] = next(i for i, w in enumerate(words) if w.lower() == word_lower)
+            return results
 
     def count(self, word):
         results = {}
         all_words = self.get_all_words()
+        word_lower = word.lower()
         for name, words in all_words.items():
-            results[name] = words.count(word)
+             results[name] = sum(1 for w in words if w.lower() == word_lower)
         return results
 
 
