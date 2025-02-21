@@ -66,6 +66,7 @@
     &quot;Python tests.Python tests in suite_12_3.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in tests_12_1.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in tests_12_2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in tests_12_4.py.executor&quot;: &quot;Run&quot;,
     &quot;Python.Files_in_the_operating_system.executor&quot;: &quot;Run&quot;,
     &quot;Python.fake_math.executor&quot;: &quot;Run&quot;,
     &quot;Python.homework3.executor&quot;: &quot;Run&quot;,
@@ -109,6 +110,7 @@
     &quot;Python.resolve5.executor&quot;: &quot;Run&quot;,
     &quot;Python.string_formatting.executor&quot;: &quot;Run&quot;,
     &quot;Python.tests_12_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tests_12_4.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/SanTcheZ/PycharmProjects/TestVenv&quot;,
@@ -120,8 +122,8 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Python tests in suite_12_3.py">
-    <configuration name="tests_12_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in tests_12_4.py">
+    <configuration name="tests_12_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Main.py" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,28 +136,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests_12_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests_12_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for tests_12_1.RunnerTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Main.py" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests_12_1.RunnerTest&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests in suite_12_3.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -203,13 +190,28 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in tests_12_4.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Main.py" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests_12_4.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in tests_12_4.py" />
+        <item itemvalue="Python.tests_12_4" />
         <item itemvalue="Python tests.Python tests in suite_12_3.py" />
         <item itemvalue="Python tests.Python tests in tests_12_2.py" />
         <item itemvalue="Python tests.Python tests in tests_12_1.py" />
-        <item itemvalue="Python.tests_12_2" />
-        <item itemvalue="Python tests.Python tests for tests_12_1.RunnerTest" />
       </list>
     </recent_temporary>
   </component>
